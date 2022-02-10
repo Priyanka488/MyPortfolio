@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Priyanka488/MyPortfolio#readme",
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   }
 }
